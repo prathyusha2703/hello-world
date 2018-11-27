@@ -1,2 +1,3 @@
 # hello-world
-Getting Started
+Getting Started with python.
+my practice projects will be stored here!
